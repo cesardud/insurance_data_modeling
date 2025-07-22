@@ -75,23 +75,18 @@ El archivo `insurance_us.csv` contiene información de personas aseguradas. Las 
 
 ## 🚀 Cómo ejecutarlo
 
-1. **Clonar el repositorio**:
+1. Clona este repositorio:
    ```bash
    git clone https://github.com/cesardud/insurance_data_modeling.git
    cd insurance_data_modeling
-   
-2. **Crear el entorno virtual**
-  ```bash
-  python3 -m venv venv
+2. Crear el entorno virtual:
+   ```bash
+   python3 -m venv venv
   source venv/bin/activate
+3. Instala las dependencias requeridas:
+   ```bash
+   pip install -r requirements.txt
 
-
-
-
-
-3. **Instala dependencias**
-  ```bash
-  pip install -r requirements.txt
 
 
   
