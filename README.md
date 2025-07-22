@@ -81,8 +81,9 @@ El archivo `insurance_us.csv` contiene información de personas aseguradas. Las 
    cd insurance_data_modeling
    
 2. **Crear el entorno virtual**
-   ```bash
-  python3 -m venv venv source venv/bin/activate
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
 
 3. **Instala dependencias**
   ```bash
