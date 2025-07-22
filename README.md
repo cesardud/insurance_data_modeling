@@ -86,7 +86,8 @@ El archivo `insurance_us.csv` contiene información de personas aseguradas. Las 
   source venv/bin/activate
 
 3. **Instala dependencias**
-
+```bash
+pip install -r requirements.txt
 
 
   
