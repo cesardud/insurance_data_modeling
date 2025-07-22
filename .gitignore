@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de notebooks temporales
+.ipynb_checkpoints/
+
